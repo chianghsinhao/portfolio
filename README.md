@@ -15,5 +15,9 @@ This portfolio site contains the following features:
 ## Reference
 For complete project specification, see [Udacity Site](https://review.udacity.com/#!/rubrics/45/view).
 
+## Credits
+ - Code for responsive image comes from [Web Fundamentals](https://developers.google.com/web/fundamentals/design-and-ux/responsive/images).
+ - Photo credits: Tom Chiang, Shen-Feng Chao. Used by permission.
+
 ## License
 This project is under MIT license.
