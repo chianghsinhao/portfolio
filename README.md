@@ -13,7 +13,7 @@ This portfolio site contains the following features:
 - Logo has border when mouseover.
 
 ## Reference
-For complete project specification, see [Udacity Site](https://review.udacity.com/#!/rubrics/45/view)
+For complete project specification, see [Udacity Site](https://review.udacity.com/#!/rubrics/45/view).
 
 ## License
 This project is under MIT license.
