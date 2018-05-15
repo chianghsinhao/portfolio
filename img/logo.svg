@@ -1,0 +1,19 @@
+<svg width="100%" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="302" width="302" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_1" y2="78.5" x2="126" y1="79.5" x1="63" stroke-width="20" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_2" y2="144.5" x2="126" y1="145.5" x1="63" stroke-width="20" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="209.5" x2="126" y1="210.5" x1="63" stroke-width="20" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_5" y2="77.5" x2="234.999998" y1="78.5" x1="146" stroke-width="20" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_7" y2="208.5" x2="234.999998" y1="209.5" x1="146" stroke-width="20" fill="none"/>
+  <line transform="rotate(90.1926040649414 191.5,144) " stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_8" y2="143.5" x2="235.999998" y1="144.5" x1="147" stroke-width="20" fill="none"/>
+ </g>
+</svg>
