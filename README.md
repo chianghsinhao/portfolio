@@ -10,7 +10,7 @@ Developed by Tom Chiang using HTML5/CSS/Javascript.
 This portfolio site contains the following features:
 - Responsive layout for mobile device.
 - Responsive image based on device pixel width and device resolution.
-- Logo has border when mouseover  
+- Logo has border when mouseover.
 
 ## Reference
 For complete project specification, see [Udacity Site](https://review.udacity.com/#!/rubrics/45/view)
