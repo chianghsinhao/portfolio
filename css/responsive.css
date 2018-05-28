@@ -14,11 +14,17 @@
 
 @media screen and (max-width: 600px) {
   #header-logo {
-    width: 20vw;
+    height: 20vw;
   }
+
+  .header-text {
+    height: 18vw;
+  }
+
   .header-text-large {
     font-size: 9vw;
   }
+
   .header-text-small {
     font-size: 3vw;
   }

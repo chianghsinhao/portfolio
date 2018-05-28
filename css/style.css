@@ -1,5 +1,8 @@
 
-img, embed, object, video {
+img,
+embed,
+object,
+video {
   max-width: 100%;
 }
 
@@ -26,11 +29,12 @@ footer {
 
 /* header */
 .header-block {
-  display: block;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 #header-logo {
-  width: 150px;
+  width: 20%;
 }
 
 .logo-hover {
@@ -40,7 +44,8 @@ footer {
 
 .header-text {
   text-align: right;
-  float: right;
+  width: 80%;
+  min-width: 240px;
   color: #2d3c49;
   text-transform: uppercase;
   max-height: 100%;
@@ -48,7 +53,7 @@ footer {
 
 .header-text-large {
   font-size: 4em;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 0;
 
 }
